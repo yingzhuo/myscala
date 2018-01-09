@@ -10,7 +10,9 @@ YING Zhuo's PRIVATE `myscala` Library for 2.12.x. Welcome to fork.
 ---
 
 ```bash
-curl -XGET 'https://raw.githubusercontent.com/yingzhuo/scalaa/master/install' | sh
+git clone https://github.com/yingzhuo/myscala.git
+cd myscala/
+mvn clean install -Dmaven.test.skip=true
 ```
 
 许可证
