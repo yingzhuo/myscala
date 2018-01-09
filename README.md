@@ -2,126 +2,15 @@
 [![Build](http://img.shields.io/badge/Build-Maven_2-green.svg)](https://maven.apache.org/)
 [![License](http://img.shields.io/badge/License-Apache_2-red.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
-# Scalaa
+# myscala
 
-YING Zhuo's PRIVATE `Scala` Library for 2.12.x. Welcome to fork.
+YING Zhuo's PRIVATE `myscala` Library for 2.12.x. Welcome to fork.
 
 安装
 ---
 
 ```bash
 curl -XGET 'https://raw.githubusercontent.com/yingzhuo/scalaa/master/install' | sh
-```
-
-依赖
----
-
-```
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-library</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-validation</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-debug</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-actuator</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-web</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-xss</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-restful-security</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-data</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-database</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-hook</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-refusing</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-mustache</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-applicationcontext</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-password</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-id</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-pinyin</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-patchca</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-smsbao</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-serialnumber</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
-<dependency>
-    <groupId>com.github.yingzhuo</groupId>
-    <artifactId>scalaa-spring-boot-starter-scope</artifactId>
-    <version>${scalaa.version}</version>
-</dependency>
 ```
 
 许可证
